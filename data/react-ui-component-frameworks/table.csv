@@ -1,0 +1,8 @@
+Id,Proid,Pkgid,Repoid,FullName,PkgName,RepoUrl,PkgUrl,StargazersCount,DownloadCount365d,CreatedAt,UpdatedAt
+1,1034,64795,23083156,mui/material-ui,@mui/material,https://github.com/mui/material-ui,https://www.npmjs.com/package/@mui/material,92577,173416639,2014-08-18 19:11:54,2024-07-22 22:10:12
+2,1037,65025,34526884,ant-design/ant-design,antd,https://github.com/ant-design/ant-design,https://www.npmjs.com/package/antd,91291,68310634,2015-04-24 15:37:24,2024-07-23 03:40:02
+3,1505,332384,585146387,shadcn-ui/ui,shadcn-ui,https://github.com/shadcn-ui/ui,https://www.npmjs.com/package/shadcn-ui,65023,2240456,2023-01-04 12:43:27,2024-07-24 18:14:32
+4,1264,280051,202890778,chakra-ui/chakra-ui,@chakra-ui/react,https://github.com/chakra-ui/chakra-ui,https://www.npmjs.com/package/@chakra-ui/react,37167,26166859,2019-08-17 14:27:54,2024-07-23 14:34:19
+5,1619,339574,15480067,react-bootstrap/react-bootstrap,react-bootstrap,https://github.com/react-bootstrap/react-bootstrap,https://www.npmjs.com/package/react-bootstrap,22313,98512920,2013-12-27 19:06:07,2024-07-24 10:01:20
+6,3301514,3634245,360522116,nextui-org/nextui,@nextui-org/react,https://github.com/nextui-org/nextui,https://www.npmjs.com/package/@nextui-org/react,20761,3662619,2021-04-22 13:06:23,2024-07-22 18:31:58
+7,1746,365108,71939872,palantir/blueprint,@blueprintjs/core,https://github.com/palantir/blueprint,https://www.npmjs.com/package/@blueprintjs/core,20556,9316373,2016-10-25 21:17:50,2024-07-22 12:49:07

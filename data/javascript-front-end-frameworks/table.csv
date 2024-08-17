@@ -1,0 +1,8 @@
+Id,Proid,Pkgid,Repoid,FullName,PkgName,RepoUrl,PkgUrl,StargazersCount,DownloadCount365d,CreatedAt,UpdatedAt
+1,1001,25451,10270250,facebook/react,react,https://github.com/facebook/react,https://www.npmjs.com/package/react,225587,1148623037,2013-05-24 16:15:54,2024-07-24 18:18:42
+2,1033,64741,24195339,angular/angular,@angular/core,https://github.com/angular/angular,https://www.npmjs.com/package/@angular/core,95319,168089768,2014-09-18 16:12:01,2024-08-14 00:00:00
+3,1051,67029,74293321,sveltejs/svelte,svelte,https://github.com/sveltejs/svelte,https://www.npmjs.com/package/svelte,77607,46063975,2016-11-20 18:13:05,2024-07-22 22:28:33
+4,1206,275753,137078487,vuejs/core,vue,https://github.com/vuejs/core,https://www.npmjs.com/package/vue,45926,226285926,2018-06-12 13:49:36,2024-07-23 02:05:14
+5,1249,279885,42283287,preactjs/preact,preact,https://github.com/preactjs/preact,https://www.npmjs.com/package/preact,36404,157401022,2015-09-11 02:40:18,2024-07-23 12:30:32
+6,2207,396157,255378816,bigskysoftware/htmx,htmx.org,https://github.com/bigskysoftware/htmx,https://www.npmjs.com/package/htmx.org,35653,2787135,2020-04-13 16:17:51,2024-07-24 09:16:17
+7,1344,286046,130884470,solidjs/solid,solid-js,https://github.com/solidjs/solid,https://www.npmjs.com/package/solid-js,31737,11366731,2018-04-24 16:36:27,2024-07-24 04:59:58
